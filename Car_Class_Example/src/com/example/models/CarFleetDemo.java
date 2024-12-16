@@ -48,10 +48,10 @@ public class CarFleetDemo {
         driver1.driveTo("Store", 50);
         
         // Final status
-        System.out.println("\nFinal fleet status:");
+        System.out.println("\nFinal  status:");
         fleet.checkStatus();
 
-        
+
     }
 
 }
