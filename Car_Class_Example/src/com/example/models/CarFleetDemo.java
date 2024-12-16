@@ -48,7 +48,7 @@ public class CarFleetDemo {
         driver1.driveTo("Store", 50);
         
         // Final status
-        System.out.println("\nFinal  status:");
+        System.out.println("\nFinal fleet status:");
         fleet.checkStatus();
 
 
