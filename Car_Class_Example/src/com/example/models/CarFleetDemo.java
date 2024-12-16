@@ -50,6 +50,8 @@ public class CarFleetDemo {
         // Final status
         System.out.println("\nFinal fleet status:");
         fleet.checkStatus();
+
+        
     }
 
 }
